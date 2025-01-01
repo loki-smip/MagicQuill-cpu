@@ -1,0 +1,5 @@
+webcolors==1.13
+opencv-python
+diffusers
+torchsde==0.2.6
+protobuf==4.25.4
