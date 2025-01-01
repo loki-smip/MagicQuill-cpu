@@ -52,7 +52,7 @@ pip install gradio_magicquill-0.0.1-py3-none-any.whl
 
 ## Hardware Requirements
 
-- GPU is required to run MagicQuill. **Through our testing, we have confirmed that the model can run on GPUs with 8GB VRAM (RTX4070 Laptop).**
+it can run on anything 
 
 For users with limited GPU resources, please try our [Huggingface Demo](https://huggingface.co/spaces/AI4Editing/MagicQuill) and [Modelscope Demo](https://modelscope.cn/studios/ant-research/MagicQuill_demo). Also, consider disabling the DrawNGuess automatic prompt filling by clicking the wand icon above if it takes too long time on your machine.
 
